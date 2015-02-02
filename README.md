@@ -1,6 +1,6 @@
 # utf8-parser
 
-Working through a [tutoria](https://ianthehenry.com/2015/1/17/decoding-utf-8/)
+Working through a [tutorial](https://ianthehenry.com/2015/1/17/decoding-utf-8/)
 on how to build UTF-8 parser.
 
 The parser itself has no significant value but working through the tutorial

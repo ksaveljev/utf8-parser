@@ -1,7 +1,7 @@
 # utf8-parser
 
 Working through a [tutorial](https://ianthehenry.com/2015/1/17/decoding-utf-8/)
-on how to build UTF-8 parser.
+by [Ian Henry](https://ianthehenry.com) on how to build UTF-8 parser.
 
 The parser itself has no significant value but working through the tutorial
 itself has enough value in it. You read about Unicode, some of its specs and
